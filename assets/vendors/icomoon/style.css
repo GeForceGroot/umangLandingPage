@@ -1,0 +1,250 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomooneed1.eot?r46hez');
+  src:  url('fonts/icomooneed1.eot?r46hez#iefix') format('embedded-opentype'),
+    url('fonts/icomooneed1.ttf?r46hez') format('truetype'),
+    url('fonts/icomooneed1.woff?r46hez') format('woff'),
+    url('fonts/icomooneed1.svg?r46hez#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-arrow-2:before {
+  content: "\e92f";
+}
+.icon-arrow-with-scribble-1:before {
+  content: "\e930";
+}
+.icon-clos:before {
+  content: "\e931";
+}
+.icon-curve1:before {
+  content: "\e932";
+}
+.icon-data-1-1:before {
+  content: "\e933";
+}
+.icon-globe-1-1:before {
+  content: "\e934";
+}
+.icon-Group:before {
+  content: "\e935";
+}
+.icon-idea-2-1:before {
+  content: "\e936";
+}
+.icon-insight1:before {
+  content: "\e937";
+}
+.icon-keyword-3:before {
+  content: "\e938";
+}
+.icon-megaphone1:before {
+  content: "\e939";
+}
+.icon-play:before {
+  content: "\e93a";
+}
+.icon-plus-2:before {
+  content: "\e93b";
+}
+.icon-right-quotation-sign-1:before {
+  content: "\e93c";
+}
+.icon-search-location-1:before {
+  content: "\e93d";
+}
+.icon-seo3:before {
+  content: "\e93e";
+}
+.icon-social-marketing-1:before {
+  content: "\e93f";
+}
+.icon-speed-1:before {
+  content: "\e940";
+}
+.icon-target-1-2:before {
+  content: "\e941";
+}
+.icon-target-4:before {
+  content: "\e942";
+}
+.icon-technical-support-1:before {
+  content: "\e943";
+}
+.icon-arrow-right:before {
+  content: "\e944";
+}
+.icon-rocket:before {
+  content: "\e945";
+}
+.icon-screwdriver-wrench:before {
+  content: "\e946";
+}
+.icon-call:before {
+  content: "\e91c";
+}
+.icon-plus:before {
+  content: "\e91d";
+}
+.icon-search:before {
+  content: "\e91e";
+}
+.icon-analytics1:before {
+  content: "\e91f";
+}
+.icon-check-mark1:before {
+  content: "\e920";
+}
+.icon-data-research1:before {
+  content: "\e921";
+}
+.icon-diamond1-1:before {
+  content: "\e922";
+}
+.icon-idea1:before {
+  content: "\e923";
+}
+.icon-layers1:before {
+  content: "\e924";
+}
+.icon-Line:before {
+  content: "\e925";
+}
+.icon-loyal-customer:before {
+  content: "\e926";
+}
+.icon-mission1:before {
+  content: "\e927";
+}
+.icon-positive-thinking1:before {
+  content: "\e928";
+}
+.icon-seo21:before {
+  content: "\e929";
+}
+.icon-shuttle1:before {
+  content: "\e92a";
+}
+.icon-startup:before {
+  content: "\e92b";
+}
+.icon-target:before {
+  content: "\e92c";
+}
+.icon-trophy2:before {
+  content: "\e92d";
+}
+.icon-www1:before {
+  content: "\e92e";
+}
+.icon-keyword:before {
+  content: "\e916";
+}
+.icon-competitor-analysis:before {
+  content: "\e917";
+}
+.icon-data-report:before {
+  content: "\e918";
+}
+.icon-enterprise:before {
+  content: "\e919";
+}
+.icon-setting:before {
+  content: "\e91a";
+}
+.icon-web-optimization:before {
+  content: "\e91b";
+}
+.icon-phone-volume:before {
+  content: "\e947";
+}
+.icon-location-dot:before {
+  content: "\e948";
+}
+.icon-envelope-open-text:before {
+  content: "\e949";
+}
+.icon-cloud-computing:before {
+  content: "\e913";
+}
+.icon-seo:before {
+  content: "\e914";
+}
+.icon-seo2:before {
+  content: "\e915";
+}
+.icon-arrow-right-up:before {
+  content: "\e900";
+}
+.icon-call-icon:before {
+  content: "\e901";
+}
+.icon-check:before {
+  content: "\e902";
+}
+.icon-envelopes-bulk:before {
+  content: "\e903";
+}
+.icon-Icon-check .path1:before {
+  content: "\e904";
+}
+.icon-Icon-check .path2:before {
+  content: "\e905";
+  margin-left: -1em;
+}
+.icon-location:before {
+  content: "\e906";
+}
+.icon-quote-left:before {
+  content: "\e907";
+}
+.icon-right-arrow:before {
+  content: "\e908";
+}
+.icon-sms-box:before {
+  content: "\e909";
+}
+.icon-star:before {
+  content: "\e90a";
+}
+.icon-angle-down:before {
+  content: "\e90b";
+}
+.icon-bullhorn:before {
+  content: "\e90c";
+}
+.icon-chart-mixed:before {
+  content: "\e90d";
+}
+.icon-laptop-code:before {
+  content: "\e90e";
+}
+.icon-facebook-f:before {
+  content: "\e90f";
+}
+.icon-instagram:before {
+  content: "\e910";
+}
+.icon-linkedin-in:before {
+  content: "\e911";
+}
+.icon-twitter:before {
+  content: "\e912";
+}
